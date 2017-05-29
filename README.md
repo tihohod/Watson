@@ -1,2 +1,2 @@
 # Watson
-# An experimental project of making HLDI machine
+# A research project of making an HLDI machine/software
